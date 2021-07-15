@@ -1,0 +1,10 @@
+body {
+    margin: 50px;
+}
+section {
+    border: solid 2px green; 
+    border-radius: 10px;;
+}
+.section1 {
+    text-align: center;
+}

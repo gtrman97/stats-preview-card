@@ -28,7 +28,7 @@ p {
 }
 b {
     color: white;
-    font-size: initial;
+    font-size: 125%;
 }
 li {
     color: hsla(0, 0%, 100%, 0.6);
@@ -38,6 +38,7 @@ li {
     text-align: center;
 }
 img {
+    filter: hue-rotate(180deg);
     max-width: 100%;
     max-height: 100%;
  

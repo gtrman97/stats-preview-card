@@ -1,16 +1,26 @@
 body {
     margin: 50px;
-    background-color: black;
+    background-color: hsl(233, 47%, 7%);
+    font-size: 15px;
 }
 section {
     display: flex;
     flex-direction: column-reverse;
     border: solid 2px green; 
     border-radius: 10px;;
-    background-color: white;
+    background-color: hsl(244, 38%, 16%); 
 }
 .info {
     text-align: center;
+}
+h2 {
+    color: white;
+}
+p {
+    color: hsla(0, 0%, 100%, 0.75);
+}
+li {
+    color: hsla(0, 0%, 100%, 0.6);
 }
 .pic {
     overflow: hidden;

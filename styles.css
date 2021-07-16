@@ -20,6 +20,9 @@ h2 {
     padding: 0.5em;
 
 }
+span {
+    color: hsl(277, 64%, 61%);
+}
 p {
     color: hsla(0, 0%, 100%, 0.75);
     line-height: 1.6;

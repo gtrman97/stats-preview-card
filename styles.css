@@ -8,12 +8,11 @@ section {
     flex-direction: column-reverse;
     border-radius: 15px;
     background-color: hsl(244, 38%, 16%); 
+    overflow: hidden;
+
 }
 .info {
     text-align: center;
-}
-.pic {
-    overflow: hidden;
 }
 h2 {
     color: white;

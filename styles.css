@@ -24,7 +24,7 @@ h2 {
     padding: 0.5em;
 
 }
-span {
+.keyword {
     color: hsl(277, 64%, 61%);
 }
 p {
@@ -34,7 +34,7 @@ p {
     line-height: 1.6;
     padding: 15px;
 }
-b {
+.numbers {
     color: white;
     font-size: 125%;
 }

@@ -2,7 +2,6 @@
 @import url('https://fonts.googleapis.com/css?family=Lexend+Deca'); 
  
 body {
-    margin: 50px;
     background-color: hsl(233, 47%, 7%);
     font-size: 15px;
 }
@@ -13,6 +12,8 @@ section {
     background-color: hsl(244, 38%, 16%); 
     overflow: hidden;
     padding-bottom: 1em;
+    margin: 10%;
+
 
 }
 .info {
@@ -55,9 +56,20 @@ img {
 @media only screen and (min-width: 1024px) {
     section {
     flex-direction: row;
-    height: 55vh;
+    height: 45vh;
+    margin: 5%;
+    }
+    .info {
+        min-width: 50%;
+    }
+    .pic {
+        min-width: 50%;
     }
     img {
-        object-fit: contain;
+        height: 100%;
+    }
+    ul {
+        display: flex;
+        justify-content: center;
     }
 }

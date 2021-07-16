@@ -43,7 +43,7 @@ li {
     color: hsla(0, 0%, 100%, 0.6);
     list-style-type: none;
     padding: 10px;
-    width: 75%;
+    margin: auto;
     text-align: center;
 }
 img {

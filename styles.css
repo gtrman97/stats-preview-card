@@ -38,13 +38,14 @@ p {
     color: white;
     font-size: 125%;
 }
+ul {
+    display: inline;
+}
 li {
     font-family: Lexend Deca; 
     color: hsla(0, 0%, 100%, 0.6);
     list-style-type: none;
-    padding: 10px;
-    margin: auto;
-    text-align: center;
+    padding: 15px;
 }
 img {
     filter: hue-rotate(180deg);

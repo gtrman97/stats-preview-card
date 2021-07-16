@@ -28,7 +28,8 @@ span {
     color: hsl(277, 64%, 61%);
 }
 p {
-    font-family: Lexend Deca; 
+    font-family: Lexend Deca;
+    font-size: 15px;
     color: hsla(0, 0%, 100%, 0.75);
     line-height: 1.6;
     padding: 15px;
@@ -38,6 +39,7 @@ b {
     font-size: 125%;
 }
 li {
+    font-family: Lexend Deca; 
     color: hsla(0, 0%, 100%, 0.6);
     list-style-type: none;
     padding: 10px;

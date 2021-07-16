@@ -12,6 +12,7 @@ section {
     border-radius: 15px;
     background-color: hsl(244, 38%, 16%); 
     overflow: hidden;
+    padding-bottom: 1em;
 
 }
 .info {

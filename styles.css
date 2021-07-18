@@ -18,6 +18,9 @@ section {
 .info {
     text-align: center;
 }
+.pic {
+    background-color: hsl(277, 64%, 61%);
+}
 h2 {
     font-family: Inter; 
     color: white;
@@ -49,8 +52,8 @@ li {
     padding: 15px;
 }
 img {
-    filter: hue-rotate(180deg);
     width: 100%;
+    mix-blend-mode: multiply;
 } 
 @media only screen and (min-width: 1024px) {
     section {

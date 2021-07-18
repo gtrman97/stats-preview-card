@@ -60,7 +60,7 @@ img {
     section {
     flex-direction: row;
     height: 45vh;
-    margin: 5%;
+    margin: 15%;
     }
     .info {
         min-width: 50%;

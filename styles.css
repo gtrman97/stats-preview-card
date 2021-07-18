@@ -41,6 +41,7 @@ p {
 .numbers {
     color: white;
     font-size: 125%;
+    font-weight: bolder;
 }
 ul {
     display: inline;

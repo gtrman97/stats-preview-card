@@ -1,6 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Inter'); 
-@import url('https://fonts.googleapis.com/css?family=Lexend+Deca'); 
- 
 body {
     background-color: hsl(233, 47%, 7%);
     font-size: 15px;
@@ -23,6 +20,7 @@ section {
 }
 h2 {
     font-family: Inter; 
+    font-weight: 700;
     color: white;
     text-align: center;
     padding: 0.7em;
@@ -35,6 +33,7 @@ h2 {
 p {
     font-family: Lexend Deca;
     font-size: 15px;
+    font-weight: 400;
     color: hsla(0, 0%, 100%, 0.75);
     line-height: 1.5;
     padding: 15px;
@@ -49,6 +48,7 @@ ul {
 }
 li {
     font-family: Lexend Deca; 
+    font-weight: 400;
     color: hsla(0, 0%, 100%, 0.6);
     list-style-type: none;
     padding: 15px;

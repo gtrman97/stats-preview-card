@@ -90,7 +90,9 @@ img {
     }
     ul {
         display: flex;
-        justify-content: center;
+        justify-content: space-between;
+        margin-left: 35px;
+        margin-right: 95px;
         padding-top: 2em;
         padding-inline-start: 0px;
     }

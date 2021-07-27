@@ -37,6 +37,7 @@ p {
     color: hsla(0, 0%, 100%, 0.75);
     line-height: 1.5;
     padding: 15px;
+    margin-bottom: 0%;
 }
 .numbers {
     color: white;

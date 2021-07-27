@@ -104,10 +104,10 @@ img {
         justify-content: space-between;
         margin-left: 35px;
         margin-right: 95px;
-        margin-bottom: 95%;
+        margin-top: 0%;
         padding: 3.5%;
         padding-inline-start: 0px;
-        border: solid 2px yellow;
+        /* border: solid 2px yellow; */
 
     }
     li {

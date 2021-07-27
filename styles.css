@@ -19,7 +19,7 @@ section {
     background-color: hsl(277, 64%, 61%);
 }
 h2 {
-    font-family: Inter; 
+    font-family: 'Inter', sans-serif; 
     font-weight: 700;
     color: white;
     text-align: center;

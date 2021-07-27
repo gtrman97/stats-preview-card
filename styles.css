@@ -72,18 +72,20 @@ img {
         margin-right: 35px;
         font-size: 225%;
         text-align: left;
-        border: solid 2px yellow;
-
+        /* border: solid 2px yellow; */
     }
     p {
         margin-bottom: 0%;
         margin-left: 35px;
-        margin-right: 75px;
+        margin-right: 125px;
         font-size: 90%;
         text-align: left;
-        padding: 5%;
-        border: solid 2px yellow;
-
+        padding: 3.5%;
+        min-height: 15%;
+        /* border: solid 2px yellow; */
+        margin-block-start: 0em;
+        margin-block-end: 0em;
+        line-height: 1.75;
 
     }
     .info {
@@ -100,10 +102,15 @@ img {
         justify-content: space-between;
         margin-left: 35px;
         margin-right: 95px;
-        padding-top: 2em;
+        padding: 3.5%;
         padding-inline-start: 0px;
+        /* border: solid 2px yellow; */
+
     }
     li {
         text-align: left;
     }
+    /* .numbers {
+        padding-bottom: 15%;
+    } */
 }

@@ -43,6 +43,8 @@ p {
     color: white;
     font-size: 125%;
     font-weight: bolder;
+    text-transform: none;
+    display: block;
 }
 ul {
     display: inline;
@@ -53,6 +55,7 @@ li {
     color: hsla(0, 0%, 100%, 0.6);
     list-style-type: none;
     padding: 15px;
+    text-transform: uppercase;
 }
 img {
     width: 100%;

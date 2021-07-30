@@ -2,7 +2,7 @@ body {
     background-color: hsl(233, 47%, 7%);
     font-size: 15px;
 }
-section {
+main {
     display: flex;
     flex-direction: column-reverse;
     border-radius: 15px;
@@ -64,7 +64,7 @@ img {
     display: block;
 } 
 @media only screen and (min-width: 1024px) {
-    section {
+    main {
     flex-direction: row;
     height: 54vh;
     margin: 12.5%;
